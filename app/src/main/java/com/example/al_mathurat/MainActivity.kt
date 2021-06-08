@@ -13,21 +13,13 @@ class MainActivity : AppCompatActivity() {
         }
 
     fun gotoSughra(view: View){       //takes us to sughra activity
-        val button: Button = findViewById(R.id.button)
-        button.setOnClickListener(View.OnClickListener {
-            val intent = Intent(this, activitySughra::class.java)
-            startActivity(intent)
-        })
-
-
+        val intent = Intent(this, activitySughra::class.java)
+        startActivity(intent)
     }
 
     fun gotoKubra(view: View){
-        val button: Button = findViewById(R.id.button2)
-        button.setOnClickListener(View.OnClickListener {
-            val intent =  Intent(this, activityKubra::class.java)
-            startActivity(intent)
-        })
+        val intent = Intent(this, activityKubra::class.java)
+        startActivity(intent)
     }
 
 }
