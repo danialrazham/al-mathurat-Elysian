@@ -44,6 +44,12 @@
                 app:srcCompat="@drawable/mathurat_4" />
 
             <ImageView
+                android:id="@+id/mathuart_kubra_4.5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_5_5" />
+
+            <ImageView
                 android:id="@+id/mathurat_kubra_5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
