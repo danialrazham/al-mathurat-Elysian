@@ -22,5 +22,9 @@ class MainActivity : AppCompatActivity() {
         startActivity(intent)
     }
 
+    fun onDarkMode(view: View){
+
+    }
+
 }
 
