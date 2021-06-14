@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Al-Mathurat</string>
+    <string name="ver_sughra">Sughra</string>
+    <string name="ver_kubra">Kubra</string>
+    <string name="switch_darkMode">Dark Mode</string>
+</resources>
