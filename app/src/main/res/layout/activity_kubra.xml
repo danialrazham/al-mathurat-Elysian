@@ -4,4 +4,356 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".activityKubra"/>
+    tools:context=".activityKubra">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_1" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_2" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_3" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_4" />
+
+            <ImageView
+                android:id="@+id/mathuart_kubra_4.5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_5_5" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_5" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_6" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_7" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_8" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_9" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_10" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_11" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_12" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_13" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_14" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_15" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_16" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_17" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_18" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_19" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_20" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_21" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_22" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_23" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_24" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_25"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_25" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_26" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_27"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_27" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_28"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_28" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_29"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_29" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_30"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_30" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_31"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_31" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_32"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_32" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_33"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_33" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_34"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_34" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_35"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_35" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_36"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_36" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_37"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_37" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_38"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_38" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_39"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_39" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_40"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_40" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_41"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_41" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_42"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_42" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_43"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_43" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_44"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_44" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_45"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_45" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_46"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_46" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_47"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_47" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_48"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_48" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_49"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_49" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_50"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_50" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_51"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_51" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_52"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_52" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_53"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_53" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_54"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_54" />
+
+            <ImageView
+                android:id="@+id/mathurat_kubra_55"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/mathurat_55" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
